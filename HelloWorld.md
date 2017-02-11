@@ -1,2 +1,1 @@
-## This is a Markdown file
-### By Dheeraj M.
+## This is a markdown file
